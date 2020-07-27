@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_auth_flutter">Chat app</string>
+    <string name="facebook_app_id">726018541303163</string>
+    <string name="fb_login_protocol_scheme">fb726018541303163</string>
+
+</resources>

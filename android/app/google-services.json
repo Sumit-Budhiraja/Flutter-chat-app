@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901926101069",
+    "firebase_url": "https://temp-38b74.firebaseio.com",
+    "project_id": "temp-38b74",
+    "storage_bucket": "temp-38b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901926101069:android:bf04131fb1e60a9e78fc04",
+        "android_client_info": {
+          "package_name": "com.sumit.loginauthflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901926101069-ib5jda6hv0uh0gjjcnh2vvs6kk0dupqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8f1k-4TywojnBIIUn9ylxaGeX9vIVL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901926101069-ib5jda6hv0uh0gjjcnh2vvs6kk0dupqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
